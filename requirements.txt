@@ -7,3 +7,4 @@ transformers
 accelerate
 bitsandbytes
 huggingface-hub
+langchain_community
