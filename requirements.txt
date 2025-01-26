@@ -8,3 +8,4 @@ accelerate
 bitsandbytes
 huggingface-hub
 langchain_community
+langchain_huggingface
