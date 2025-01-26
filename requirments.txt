@@ -2,6 +2,7 @@ streamlit
 langchain
 faiss-cpu
 pypdf
+PyPDF2
 sentence-transformers
 transformers
 accelerate
